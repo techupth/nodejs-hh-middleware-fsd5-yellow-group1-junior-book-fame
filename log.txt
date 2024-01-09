@@ -1,0 +1,5 @@
+IP ::1, Method GET, Endpoint /
+IP ::1, Method GET, Endpoint /
+IP ::1, Method GET, Endpoint /
+IP ::1, Method POST, Endpoint /
+IP ::1, Method POST, Endpoint /
